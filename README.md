@@ -15,7 +15,7 @@ The Help Desk Ticketing System is a Python-based prototype designed to manage su
   - Displaying ticket information
   - Tracking ticket statistics
 ## Usage
-1. **Run the Program**: Execute the Python script `ticket.py` to start the Help Desk Ticketing System.
+1. **Run the Program**: Execute the Python script `ticket.py` to start the Help Desk Ticketing System .
 
 2. **Main Menu**:
    - Create Ticket: Submit new support tickets.
